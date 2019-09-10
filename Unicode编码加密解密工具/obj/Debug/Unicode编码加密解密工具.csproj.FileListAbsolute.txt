@@ -1,0 +1,15 @@
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\bin\Debug\Unicode编码加密解密工具.exe.config
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\bin\Debug\Unicode编码加密解密工具.exe
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\bin\Debug\Unicode编码加密解密工具.pdb
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具.csprojAssemblyReference.cache
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\MainWindow.g.cs
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\App.g.cs
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具_MarkupCompile.cache
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具_MarkupCompile.lref
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\MainWindow.baml
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具.g.resources
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具.Properties.Resources.resources
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具.csproj.GenerateResource.cache
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具.csproj.CoreCompileInputs.cache
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具.exe
+E:\vs\解码工具\Unicode编码加密解密工具\Unicode编码加密解密工具\obj\Debug\Unicode编码加密解密工具.pdb
